@@ -33,5 +33,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 # Tailwind CSS
 
-npm i -D tailwindcss
+npm i -D tailwindcss \
 npx tailwindcss init
